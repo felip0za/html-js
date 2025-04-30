@@ -21,3 +21,6 @@ let tamanho = ['p', 'pp', 'M', 'G', 36, 38, 40, 54];
 let temPet = true;
 
 const idade = 28;
+
+let dataCadastro = new Date();
+console.log(dataCadastro);
